@@ -115,7 +115,7 @@ The 2% demurrage tax has a more significant impact on larger wallets in absolute
 Details of the implementation will be provided once the proposal is accepted and before it's finalized.
 
 12 **References**:
-- https://docs.idena.io/docs/iip/
+- https://docs.idena.io/
 
 
 
