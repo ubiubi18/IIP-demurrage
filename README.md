@@ -87,7 +87,7 @@ Short-Term Price Fluctuations: The announcement and subsequent implementation of
 
 Technical Implementation Risks: Introducing a new tax mechanism requires changes to the underlying protocol. There's always a risk of bugs or unforeseen technical challenges when implementing such changes, which could impact network stability.
 
-While the proposal aims to discourage hoarding and promote decentralization, there's a risk that some large holders (like early investors and devs) might find ways to circumvent the tax or consolidate their holdings, leading to economic centralization.
+While the proposal aims to discourage hoarding and promote decentralization, there's a risk that some large holders might find ways to circumvent the tax or consolidate their holdings, leading to economic centralization.
 
 While the proposal aims to stabilize iDNA's economics, external factors could still lead to unpredictability in price and adoption.
 
