@@ -1,5 +1,5 @@
 # IIP-limited supply
-introduce limited supply to idena while keeping reward cryptonomics intact 
+Introducing Limited Supply & 2% Demurrage Tax for iDNA
 
 
 **IIP-X: Introducing Limited Supply and Demurrage Tax on iDNA Balances**
