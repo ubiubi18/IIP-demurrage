@@ -56,17 +56,17 @@ The primary motivation behind this proposal is to create a sustainable reward me
 6. **Rationale**:
 The demurrage tax ensures a continuous reward for miners, promoting active participation and network security. The one-time minting into the zero wallet ensures that the current value distribution remains relatively stable, preventing sudden shocks to the system.
 
-1. *Limited Supply Appeal**: The concept of a limited supply has been a significant attraction in the cryptocurrency space, as evidenced by the success and adoption of Bitcoin. A capped supply often resonates with the crypto community's ethos against inflationary traditional currencies. By setting a fixed supply for iDNA, we align with this popular sentiment, potentially attracting more investors and users to the Idena ecosystem.
+ *Limited Supply Appeal**: The concept of a limited supply has been a significant attraction in the cryptocurrency space, as evidenced by the success and adoption of Bitcoin. A capped supply often resonates with the crypto community's ethos against inflationary traditional currencies. By setting a fixed supply for iDNA, we align with this popular sentiment, potentially attracting more investors and users to the Idena ecosystem.
 
-2. *Fairer Distribution Mechanism**: Traditional mining mechanisms, as seen in Bitcoin, have increasingly favored highly specialized miners, leading to centralization concerns. These miners benefit disproportionately from the minting mechanism, while the average user sees their holdings' purchasing power diminish. Introducing a demurrage tax ensures a more equitable distribution of rewards, benefiting a broader range of participants.
+ *Fairer Distribution Mechanism**: Traditional mining mechanisms, as seen in Bitcoin, have increasingly favored highly specialized miners, leading to centralization concerns. These miners benefit disproportionately from the minting mechanism, while the average user sees their holdings' purchasing power diminish. Introducing a demurrage tax ensures a more equitable distribution of rewards, benefiting a broader range of participants.
 
-3. *Incentivizing Active Participation*: Large holders who hoard iDNA without actively participating in securing the network don't contribute to Idena's growth or security. The demurrage tax encourages these holders to stake their coins, ensuring they play an active role in the network's health. This not only boosts network security but also ensures that the tax they pay benefits them indirectly by supporting the ecosystem they've invested in.
+ *Incentivizing Active Participation*: Large holders who hoard iDNA without actively participating in securing the network don't contribute to Idena's growth or security. The demurrage tax encourages these holders to stake their coins, ensuring they play an active role in the network's health. This not only boosts network security but also ensures that the tax they pay benefits them indirectly by supporting the ecosystem they've invested in.
 
-4. *Transparency and Distribution*: Currently, there's a lack of clarity regarding iDNA's distribution – it's challenging to ascertain how many individuals or entities control the majority of coins. The demurrage tax, by incentivizing staking and active participation, can provide more transparency in this area, promoting a more decentralized and equitable distribution of iDNA.
+*Transparency and Distribution*: Currently, there's a lack of clarity regarding iDNA's distribution – it's challenging to ascertain how many individuals or entities control the majority of coins. The demurrage tax, by incentivizing staking and active participation, can provide more transparency in this area, promoting a more decentralized and equitable distribution of iDNA.
 
-6. *Continuous Reward for Miners*: The demurrage tax ensures a continuous reward for miners, promoting active participation and network security. 
+ *Continuous Reward for Miners*: The demurrage tax ensures a continuous reward for miners, promoting active participation and network security. 
 
-7. *Stability in Value Distribution*: The one-time minting into the zero wallet ensures that the current value distribution remains relatively stable, preventing sudden shocks to the system
+ *Stability in Value Distribution*: The one-time minting into the zero wallet ensures that the current value distribution remains relatively stable, preventing sudden shocks to the system
    
 7.  **Potential Risks:**
 
@@ -75,6 +75,10 @@ Adoption Hurdles: Any significant change in a cryptocurrency's economic model ca
 Short-Term Price Fluctuations: The announcement and subsequent implementation of such a proposal could lead to short-term price volatility as the market reacts and adjusts to the new economic model.
 
 Technical Implementation Risks: Introducing a new tax mechanism requires changes to the underlying protocol. There's always a risk of bugs or unforeseen technical challenges when implementing such changes, which could impact network stability.
+
+While the proposal aims to discourage hoarding and promote decentralization, there's a risk that some large holders (like early investors and devs) might find ways to circumvent the tax or consolidate their holdings, leading to economic centralization.
+
+While the proposal aims to stabilize iDNA's economics, external factors could still lead to unpredictability in price and adoption.
 
 
 
