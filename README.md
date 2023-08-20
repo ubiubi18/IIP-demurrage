@@ -1,11 +1,6 @@
 # IIP-limited supply
 Introducing Limited Supply & 2% Demurrage Tax for iDNA
 
-
-**IIP-X: Introducing Limited Supply and Demurrage Tax on iDNA Balances**
-
-**Title**: Limited Supply and Demurrage Tax on iDNA Balances for Sustainable Mining Rewards
-
 **Owner**: ubiubi18
 
 **Type**: Standard
@@ -13,7 +8,7 @@ Introducing Limited Supply & 2% Demurrage Tax for iDNA
 **Status**: Draft
 
 **Summary**:
-This proposal stops the unlimited coin minting of idna and introduces a limited supply cap. It introduces at the same time a 2% annual demurrage tax on all iDNA balances, irrespective of their state (liquid, staked, locked, or vested). The collected tax will be redistributed entirely to idena identities as session rewards amd as mining rewards. To ensure minimal disruption to the current value distribution, a one-time minting of iDNA will be done during the hard fork into the zero wallet.
+This proposal stops the unlimited coin minting of idna and introduces a limited supply cap. It introduces at the same time a 2% annual demurrage tax on all iDNA balances, irrespective of their state (liquid, staked, locked, or vested). The collected tax will be redistributed entirely to idena identities as session rewards and as mining rewards. To ensure minimal disruption to the current value distribution, a one-time minting of iDNA will be done during the hard fork into the zero wallet.
 
 **Motivation**:
 The primary motivation behind this proposal is to create a sustainable reward mechanism for mining identities while ensuring a limited supply of iDNA. The demurrage tax acts as an incentive for active participation in the network and ensures a continuous flow of rewards to miners.
