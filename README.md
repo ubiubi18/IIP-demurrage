@@ -52,7 +52,28 @@ This proposal requires a hard fork. All nodes and clients will need to upgrade t
 **Test Cases**:
 Test cases will need to be written to ensure the correct deduction of the demurrage tax and its redistribution to miners.
 
+**Example Impact of 2% Demurrage Tax on iDNA Wallets**
 
+1. **Wallet with 100 iDNA**:
+    - **Current APY when staked**: 187.9%
+    - **Current APY when unstaked**: 0% (assuming no rewards for unstaked coins)
+
+    **With 2% Demurrage Tax**:
+    - **Staked**: The wallet will lose 2 iDNA annually due to the tax. However, with the APY of 187.9%, the wallet would earn 187.9 iDNA in rewards. The net gain would be 185.9 iDNA, making the effective APY 185.9%.
+    - **Unstaked**: The wallet will lose 2 iDNA annually due to the tax, with no rewards to offset this loss. The net loss would be 2 iDNA annually.
+
+2. **Wallet with 100,000 iDNA**:
+    - **Current APY when staked**: 86%
+    - **Current APY when unstaked**: 0% (assuming no rewards for unstaked coins)
+
+    **With 2% Demurrage Tax**:
+    - **Staked**: The wallet will lose 2,000 iDNA annually due to the tax. With the APY of 86%, the wallet would earn 86,000 iDNA in rewards. The net gain would be 84,000 iDNA, making the effective APY 84%.
+    - **Unstaked**: The wallet will lose 2,000 iDNA annually due to the tax, with no rewards to offset this loss. The net loss would be 2,000 iDNA annually.
+
+---
+
+**Conclusion**:
+The 2% demurrage tax has a more significant impact on larger wallets in absolute terms, but when considering the rewards from staking, the net effect on APY is relatively small. However, for unstaked coins, the tax represents a pure loss, incentivizing holders to stake their coins and actively participate in the network. This ensures that even large holders contribute to the network's security and health, rather than merely hoarding coins.
 
 **Implementation**:
 Details of the implementation will be provided once the proposal is accepted and before it's finalized.
