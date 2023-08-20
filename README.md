@@ -4,7 +4,7 @@ introduce limited supply to idena while keeping reward cryptonomics intact
 
 **IIP-X: Introducing Limited Supply and Demurrage Tax on iDNA Balances**
 
-**Title**: Demurrage Tax on iDNA Balances for Sustainable Mining Rewards
+**Title**: Limited Supply and Demurrage Tax on iDNA Balances for Sustainable Mining Rewards
 
 **Owner**: ubiubi18
 
@@ -13,7 +13,7 @@ introduce limited supply to idena while keeping reward cryptonomics intact
 **Status**: Draft
 
 **Summary**:
-This proposal stops the unlimited coin minting of idna and introduces at the same time a 2% annual demurrage tax on all iDNA balances, irrespective of their state (liquid, staked, locked, or vested). The collected tax will be redistributed entirely to idena identities as session rewards amd as mining rewards. To ensure minimal disruption to the current value distribution, a one-time minting of iDNA will be done during the hard fork into the zero wallet.
+This proposal stops the unlimited coin minting of idna and introduces a limited supply cap. It introduces at the same time a 2% annual demurrage tax on all iDNA balances, irrespective of their state (liquid, staked, locked, or vested). The collected tax will be redistributed entirely to idena identities as session rewards amd as mining rewards. To ensure minimal disruption to the current value distribution, a one-time minting of iDNA will be done during the hard fork into the zero wallet.
 
 **Motivation**:
 The primary motivation behind this proposal is to create a sustainable reward mechanism for mining identities while ensuring a limited supply of iDNA. The demurrage tax acts as an incentive for active participation in the network and ensures a continuous flow of rewards to miners.
@@ -32,10 +32,10 @@ The primary motivation behind this proposal is to create a sustainable reward me
 
 **Rationale**:
 The demurrage tax ensures a continuous reward for miners, promoting active participation and network security. The one-time minting into the zero wallet ensures that the current value distribution remains relatively stable, preventing sudden shocks to the system.
-**Rationale**:
-1. **Limited Supply Appeal**: The concept of a limited supply has been a significant attraction in the cryptocurrency space, as evidenced by the success and adoption of Bitcoin. A capped supply often resonates with the crypto community's ethos against inflationary traditional currencies. By setting a fixed supply for iDNA, we align with this popular sentiment, potentially attracting more investors and users to the Idena ecosystem.
 
-2. **Fairer Distribution Mechanism**: Traditional mining mechanisms, as seen in Bitcoin, have increasingly favored highly specialized miners, leading to centralization concerns. These miners benefit disproportionately from the minting mechanism, while the average user sees their holdings' purchasing power diminish. Introducing a demurrage tax ensures a more equitable distribution of rewards, benefiting a broader range of participants.
+1. *Limited Supply Appeal**: The concept of a limited supply has been a significant attraction in the cryptocurrency space, as evidenced by the success and adoption of Bitcoin. A capped supply often resonates with the crypto community's ethos against inflationary traditional currencies. By setting a fixed supply for iDNA, we align with this popular sentiment, potentially attracting more investors and users to the Idena ecosystem.
+
+2. *Fairer Distribution Mechanism**: Traditional mining mechanisms, as seen in Bitcoin, have increasingly favored highly specialized miners, leading to centralization concerns. These miners benefit disproportionately from the minting mechanism, while the average user sees their holdings' purchasing power diminish. Introducing a demurrage tax ensures a more equitable distribution of rewards, benefiting a broader range of participants.
 
 3. *Incentivizing Active Participation*: Large holders who hoard iDNA without actively participating in securing the network don't contribute to Idena's growth or security. The demurrage tax encourages these holders to stake their coins, ensuring they play an active role in the network's health. This not only boosts network security but also ensures that the tax they pay benefits them indirectly by supporting the ecosystem they've invested in.
 
