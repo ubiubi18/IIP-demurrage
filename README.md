@@ -68,11 +68,20 @@ The demurrage tax ensures a continuous reward for miners, promoting active parti
 
 7. *Stability in Value Distribution*: The one-time minting into the zero wallet ensures that the current value distribution remains relatively stable, preventing sudden shocks to the system
    
+7.  **Potential Risks:**
 
-7. **Backwards Compatibility**:
+Adoption Hurdles: Any significant change in a cryptocurrency's economic model can lead to initial resistance or confusion among the community. There's a risk that some stakeholders might not understand or agree with the demurrage concept, potentially leading to debates or disagreements.
+
+Short-Term Price Fluctuations: The announcement and subsequent implementation of such a proposal could lead to short-term price volatility as the market reacts and adjusts to the new economic model.
+
+Technical Implementation Risks: Introducing a new tax mechanism requires changes to the underlying protocol. There's always a risk of bugs or unforeseen technical challenges when implementing such changes, which could impact network stability.
+
+
+
+8. **Backwards Compatibility**:
 This proposal requires a hard fork. All nodes and clients will need to upgrade to the new protocol version to stay in consensus.
 
-8. **Test Cases**:
+9. **Test Cases**:
 Test cases will need to be written to ensure the correct deduction of the demurrage tax and its redistribution to miners.
 
 **Example Impact of 2% Demurrage Tax on iDNA Wallets**
@@ -95,13 +104,13 @@ Test cases will need to be written to ensure the correct deduction of the demurr
 
 ---
 
-9. **Conclusion**:
+10. **Conclusion**:
 The 2% demurrage tax has a more significant impact on larger wallets in absolute terms, but when considering the rewards from staking, the net effect on APY is relatively small. However, for unstaked coins, the tax represents a pure loss, incentivizing holders to stake their coins and actively participate in the network. This ensures that even large holders contribute to the network's security and health, rather than merely hoarding coins.
 
-10 **Implementation**:
+11 **Implementation**:
 Details of the implementation will be provided once the proposal is accepted and before it's finalized.
 
-11 **References**:
+12 **References**:
 - https://docs.idena.io/docs/iip/
 
 
