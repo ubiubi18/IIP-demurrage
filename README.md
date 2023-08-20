@@ -62,7 +62,23 @@ The demurrage tax ensures a continuous reward for miners, promoting active parti
  *Continuous Reward for Miners*: The demurrage tax ensures a continuous reward for miners, promoting active participation and network security. 
 
  *Stability in Value Distribution*: The one-time minting into the zero wallet ensures that the current value distribution remains relatively stable, preventing sudden shocks to the system
-   
+
+**Rationale for the 2%**:
+
+ *Moderate Impact**: A 2% annual rate is moderate and not overly aggressive. It strikes a balance between providing a tangible incentive for active participation and not being so high as to discourage holding or investing in iDNA. 
+
+ *Predictability**: A fixed, round number like 2% is easy for users to understand and calculate. This predictability can lead to better financial planning and decision-making by stakeholders.
+
+ *Historical Precedence**: In traditional finance, demurrage concepts have been explored with similar rates. For instance, certain complementary currencies have used demurrage rates in the 2-5% range annually. A 2% rate aligns with the lower end of this spectrum, making it a conservative choice.
+
+ *Inflation Offset**: In many economies, a 2% inflation rate is considered stable and acceptable. By setting the demurrage rate at 2%, the proposal effectively offsets typical inflation rates, ensuring that the real value of rewards and holdings remains relatively stable.
+
+ *Encouraging Active Participation**: A 2% rate is significant enough to incentivize users to stake or actively use their iDNA rather than letting it sit idle. This can lead to increased network security, more transactions, and a more vibrant ecosystem.
+
+ *Sustainability**: The proposed rate ensures a continuous flow of rewards to miners, promoting long-term sustainability of the network. A 2% rate provides a steady stream of iDNA to the reward pool without being excessively dilutive.
+
+ *Flexibility for Future Adjustments**: Starting with a 2% rate provides flexibility for future adjustments. If the network finds that the rate is too low or too high based on empirical data and user feedback, it can be adjusted in subsequent proposals. Starting with a moderate rate like 2% provides a good baseline for such evaluations.
+
 7.  **Potential Risks:**
 
 Adoption Hurdles: Any significant change in a cryptocurrency's economic model can lead to initial resistance or confusion among the community. There's a risk that some stakeholders might not understand or agree with the demurrage concept, potentially leading to debates or disagreements.
