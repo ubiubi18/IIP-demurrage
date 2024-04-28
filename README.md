@@ -123,7 +123,7 @@ This proposal requires a hard fork. All nodes and clients will need to upgrade t
 The 2% demurrage tax has a more significant impact on larger wallets in absolute terms, but when considering the rewards from staking, the net effect on APY is relatively small. However, for unstaked coins, the tax represents a pure loss, incentivizing holders to stake their coins and actively participate in the network. This ensures that even large holders contribute to the network's security and health, rather than merely hoarding coins.
 
 11 **Implementation**:
-Details of the implementation require further discussion firdr.
+Details of the implementation require further discussion first.
 
 12 **References**:
 - https://docs.idena.io/
