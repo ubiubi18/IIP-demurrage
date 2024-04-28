@@ -83,6 +83,9 @@ The demurrage tax ensures a continuous reward for miners, promoting active parti
 
 Adoption Hurdles: Any significant change in a cryptocurrency's economic model can lead to initial resistance or confusion among the community. There's a risk that some stakeholders might not understand or agree with the demurrage concept, potentially leading to debates or disagreements.
 
+problematic for liquidity providers / exchanges:
+only unstaked coins can provide liquidity to pancakeswap, but with a demurrage tax the wrapped idna would depeg from layer 1. this would require good communication and code of conduct for the centralised bridge between idenanetwork and bsc. Maybe introducing a "virtual identity" allowing to stake the bridge funds could mitigate that problem, but that would require another IIP. 
+
 Short-Term Price Fluctuations: The announcement and subsequent implementation of such a proposal could lead to short-term price volatility as the market reacts and adjusts to the new economic model.
 
 Technical Implementation Risks: Introducing a new tax mechanism requires changes to the underlying protocol. There's always a risk of bugs or unforeseen technical challenges when implementing such changes, which could impact network stability.
