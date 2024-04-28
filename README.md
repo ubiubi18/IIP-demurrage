@@ -99,9 +99,6 @@ While the proposal aims to stabilize iDNA's economics, external factors could st
 8. **Backwards Compatibility**:
 This proposal requires a hard fork. All nodes and clients will need to upgrade to the new protocol version to stay in consensus.
 
-9. **Test Cases**:
-Test cases will need to be written to ensure the correct deduction of the demurrage tax and its redistribution to miners.
-
 **Example Impact of 2% Demurrage Tax on iDNA Wallets**
 
 1. *Wallet with 100 iDNA**:
@@ -126,7 +123,7 @@ Test cases will need to be written to ensure the correct deduction of the demurr
 The 2% demurrage tax has a more significant impact on larger wallets in absolute terms, but when considering the rewards from staking, the net effect on APY is relatively small. However, for unstaked coins, the tax represents a pure loss, incentivizing holders to stake their coins and actively participate in the network. This ensures that even large holders contribute to the network's security and health, rather than merely hoarding coins.
 
 11 **Implementation**:
-Details of the implementation will be provided once the proposal is accepted and before it's finalized.
+Details of the implementation require further discussion firdr.
 
 12 **References**:
 - https://docs.idena.io/
